@@ -5,7 +5,12 @@ Compile it together with libft and get a basic implementation of Hash tables in 
 
 The code itself it's not mine, basically is just an adaptation from-> https://www.digitalocean.com/community/tutorials/hash-table-in-c-plus-plus
 
-Coming soon: a proper explanation, makefiles, dependencies...
+### Coming soon
+- A proper explanation
+- Makefiles
+- Dependencies
+- Better hashing
+- Maybe I implement a more efficient collision handling
 
 ### Known issues
 
