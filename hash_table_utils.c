@@ -20,7 +20,12 @@ unsigned long	hash_from_str(char *str)
 	i = 0;
 	hash = 0;
 	while (str[i])
-		hash += str[i++];
+	{
+		hash += str[i];
+		hash *= 33;
+		hash = hash;
+		i++;
+	}
     return (hash % HT_CAPACITY);
 }
 
