@@ -5,13 +5,6 @@ Compile it together with libft and get a basic implementation of Hash tables in 
 
 The code itself it's not mine, basically is just an adaptation from-> https://www.digitalocean.com/community/tutorials/hash-table-in-c-plus-plus
 
-### Coming soon
-- A proper explanation
-- Makefiles
-- Dependencies
-- Better hashing
-- Maybe I implement a more efficient collision handling
+DEPRECATED
 
-### Known issues
-
-- I am using printf because ft_printf was bugging on windows. Will look into that.
+Moved all data structures in C to new [repo](https://github.com/CodinaFJ/data_structures_C)
